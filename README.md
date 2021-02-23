@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Source](#source)
 
 ## General info
 Simple command line calculator 
@@ -33,3 +34,5 @@ $ C:\>kalkulator  2+2*2
 ```
 6
 
+## Sources
+Reverse Polish Notation [RPN](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
