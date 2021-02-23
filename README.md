@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-Command line calculator 
+Simple command line calculator 
 	
 ## Technologies
 Project is created with:
