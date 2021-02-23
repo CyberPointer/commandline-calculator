@@ -1,14 +1,35 @@
 # commandline-calculator
-Command line calculator written in c, with application of  reverse polish notation.
 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
-examples of proper usage of calculator in command line:
-C:\>
-C:\>kalkulator 1 +1
+## General info
+Command line calculator 
+	
+## Technologies
+Project is created with:
+* C
+* Reverse Polish Notation
+	
+## Setup
+Example of running in command line:
+
+```
+$ C:\>kalkulator 1 +1
+```
 2
-C:\>kalkulator 1 +1 +    1
+```
+$ C:\>kalkulator 1 +1
+```
 3
-C:\>kalkulator 1 +1 +    1+1+1+1
+```
+$ C:\>kalkulator  1 +1 +    1+1+1+1
+```
 6
-C:\>kalkulator 2+2*2
+```
+$ C:\>kalkulator  2+2*2
+```
 6
+
